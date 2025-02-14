@@ -74,4 +74,4 @@
 //     .catch(err => console.log(err));
 
 
-console.log(12)
+console.log('dasd')
