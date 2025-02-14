@@ -64,13 +64,14 @@
 //         console.log('done');
 //     })
 
-const url = 'https://jsonplaceholder.typicode.com/posts?_page=2&_limit=10';
+// const url = 'https://jsonplaceholder.typicode.com/posts?_page=2&_limit=10';
+//
+// fetch(url)
+//     .then(res => res.json())
+//     .then(data => {
+//         console.log(data)
+//     })
+//     .catch(err => console.log(err));
 
-fetch(url)
-    .then(res => res.json())
-    .then(data => {
-        console.log(data)
-    })
-    .catch(err => console.log(err));
-console.log("hi")
 
+console.log(12)
