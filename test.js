@@ -74,3 +74,6 @@ fetch(url)
     .catch(err => console.log(err));
 console.log("hi")
 
+function getBody(res) {
+    console.log(res)
+}
